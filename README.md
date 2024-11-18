@@ -50,7 +50,7 @@ These results align with typical low Earth orbit parameters, albeit with some de
 ## Documentation
 The detailed project report, including methodology, equations, and results, is available as a PDF file:
 
-- [Rocket Launch Simulation Report (PDF)](./Rocket Launch Simulation Report.pdf)
+- [Rocket Launch Simulation Report (PDF)]([./Rocket Launch Simulation Report.pdf](https://github.com/NFord1/Rocket-Launch-Simulation/blob/5e4bd70559ea5dcf31d65bb6dd91498b2a14d0ff/Rocket%20Launch%20Simulation%20Report.pdf))
 
 The report includes:
 1. **Introduction**: Overview of the rocket launch simulation and the physics of variable mass systems.
