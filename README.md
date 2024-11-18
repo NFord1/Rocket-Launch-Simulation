@@ -18,7 +18,7 @@ This project models the dynamics of a rocket launch into low Earth orbit (~400 k
    - Simulates the rocket's motion from launch to low Earth orbit.
    - Outputs time-dependent data for various parameters like position, velocity, and forces.
 
-4. **Visualization**:
+4. **Visualisation**:
    - Generates plots to illustrate key variables such as:
      - Horizontal and vertical acceleration.
      - Rocket trajectory.
@@ -50,7 +50,7 @@ These results align with typical low Earth orbit parameters, albeit with some de
 ## Documentation
 The detailed project report, including methodology, equations, and results, is available as a PDF file:
 
-- ([Rocket Launch Simulation Report.pdf](https://github.com/NFord1/Rocket-Launch-Simulation/blob/5e4bd70559ea5dcf31d65bb6dd91498b2a14d0ff/Rocket%20Launch%20Simulation%20Report.pdf))
+- [Rocket Launch Simulation Report.pdf](https://github.com/NFord1/Rocket-Launch-Simulation/blob/5e4bd70559ea5dcf31d65bb6dd91498b2a14d0ff/Rocket%20Launch%20Simulation%20Report.pdf)
 
 The report includes:
 1. **Introduction**: Overview of the rocket launch simulation and the physics of variable mass systems.
